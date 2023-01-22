@@ -26,6 +26,7 @@ S=np.linalg.matrix_rank(A)
 print(S)
 ```
 Developed by : Yuvarani T
+
 Register Number : 22009033
 
 ## Output:
